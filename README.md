@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Jefferson Vinicius! 👋</h1>
 
 <p align="left">
-  <a href="./README.pt-BR.md">🇧🇷 Leia a versão em Português</a>
+  <a href="./README-pt-BR.md">🇧🇷 Leia a versão em Português</a>
 </p>
 
 ###
