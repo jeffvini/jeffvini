@@ -1,25 +1,29 @@
-<h1 align="left">Olá, eu sou o Jefferson Vinicius! 👋</h1>
-
-###
-
-<p align="left">Tenho 19 anos e sou um <strong>Desenvolvedor Front-end Junior</strong> em busca de excelência técnica. Atualmente, estou em um processo intenso de estudo e prática, focado em criar interfaces modernas, acessíveis e de alta performance.</p>
-
-###
-
-<h2 align="left">Sobre mim</h2>
-
-###
+<h1 align="left">Hi, I'm Jefferson Vinicius! 👋</h1>
 
 <p align="left">
-✨ Especialista em <strong>HTML Semântico</strong> e <strong>CSS Avançado</strong>.<br>
-📚 Atualmente aprofundando em <strong>JavaScript</strong> e explorando o ecossistema <strong>React</strong>.<br>
-🚀 Desenvolvi recentemente dois projetos chave: uma <strong>Landing Page de gestão de negócios</strong> e o site institucional da <strong>Agência SquareUp</strong> (com 100/100 em SEO e Acessibilidade).<br>
-🎯 Objetivo: Dominar ferramentas como Vite, Tailwind, TypeScript e Next.js para entregar soluções web de elite.
+  <a href="./README.pt-BR.md">🇧🇷 Leia a versão em Português</a>
 </p>
 
 ###
 
-<h2 align="left">Ferramentas e Tecnologias</h2>
+<p align="left">I'm a 19-year-old <strong>Junior Front-end Developer</strong> striving for technical excellence. Currently, I am in an intensive process of study and practice, focused on creating modern, accessible, and high-performance interfaces.</p>
+
+###
+
+<h2 align="left">About Me</h2>
+
+###
+
+<p align="left">
+✨ Specialist in <strong>Semantic HTML</strong> and <strong>Advanced CSS</strong>.<br>
+📚 Currently doing a deep dive into <strong>JavaScript</strong> and exploring the <strong>React</strong> ecosystem.<br>
+🚀 Recently developed two key projects: a <strong>Business Management Landing Page</strong> and the <strong>SquareUp Agency</strong> institutional site (achieving 100/100 in SEO and Accessibility).<br>
+🎯 Goal: Master tools like Vite, Tailwind, TypeScript, and Next.js to deliver elite web solutions.
+</p>
+
+###
+
+<h2 align="left">Tools and Technologies</h2>
 
 ###
 
@@ -41,4 +45,4 @@
 
 ###
 
-<p align="left">"Esses projetos marcam a iniciativa de um estudo concentrado e sério de toda a minha jornada."</p>
+<p align="left">"These projects represent a focused and serious initiative in my learning journey."</p>
