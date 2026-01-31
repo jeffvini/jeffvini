@@ -1,5 +1,9 @@
 <h1 align="left">Olá, eu sou o Jefferson Vinicius! 👋</h1>
 
+<p align="left">
+  <a href="./README.md">🇺🇸 Read the English version</a>
+</p>
+
 ###
 
 <p align="left">Tenho 19 anos e sou um <strong>Desenvolvedor Front-end Junior</strong> em busca de excelência técnica. Atualmente, estou em um processo intenso de estudo e prática, focado em criar interfaces modernas, acessíveis e de alta performance.</p>
