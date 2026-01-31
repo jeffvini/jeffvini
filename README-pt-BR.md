@@ -54,12 +54,12 @@
     <td width="50%">
       <strong>Agência Digital SquareUp</strong><br>
       <i>Site institucional focado em alta performance, acessibilidade e SEO (Nota 100/100 no Lighthouse).</i><br><br>
-      <a href="https://jeffvini.github.io/project-digital-agency/">🌐 Ver Site</a> | <a href="https://github.com/jeffvini/project-digital-agency">💻 Código</a>
+      <a href="https://jeffvini.github.io/project-digital-agency/" target="_blank" rel="noopener noreferrer">🌐 Ver Site</a> | <a href="https://github.com/jeffvini/project-digital-agency" target="_blank" rel="noopener noreferrer">💻 Código</a>
     </td>
     <td width="50%">
       <strong>Landing Page Business Analytics</strong><br>
       <i>Uma landing page de alta conversão desenhada para apresentar uma plataforma de gestão de negócios.</i><br><br>
-      <a href="https://jeffvini.github.io/projeto-modern-product-launch/">🌐 Ver Site</a> | <a href="https://github.com/jeffvini/projeto-modern-product-launch">💻 Código</a>
+      <a href="https://jeffvini.github.io/projeto-modern-product-launch/" target="_blank" rel="noopener noreferrer">🌐 Ver Site</a> | <a href="https://github.com/jeffvini/projeto-modern-product-launch" target="_blank" rel="noopener noreferrer">💻 Código</a>
     </td>
   </tr>
 </table>
