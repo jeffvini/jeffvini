@@ -45,4 +45,27 @@
 
 ###
 
-<p align="left">"Esses projetos marcam a iniciativa de um estudo concentrado e sério de toda a minha jornada."</p>
+<h2 align="left">🏆 Projetos em Destaque</h2>
+
+### 
+
+<table border="0">
+  <tr>
+    <td width="50%">
+      <strong>Agência Digital SquareUp</strong><br>
+      <i>Site institucional focado em alta performance, acessibilidade e SEO (Nota 100/100 no Lighthouse).</i><br><br>
+      <a href="https://jeffvini.github.io/project-digital-agency/">🌐 Ver Site</a> | <a href="https://github.com/jeffvini/project-digital-agency">💻 Código</a>
+    </td>
+    <td width="50%">
+      <strong>Landing Page Business Analytics</strong><br>
+      <i>Uma landing page de alta conversão desenhada para apresentar uma plataforma de gestão de negócios.</i><br><br>
+      <a href="https://jeffvini.github.io/projeto-modern-product-launch/">🌐 Ver Site</a> | <a href="https://github.com/jeffvini/projeto-modern-product-launch">💻 Código</a>
+    </td>
+  </tr>
+</table>
+
+###
+
+<p align="left">"Estes projetos marcam a iniciativa de um estudo concentrado e sério em toda a minha jornada."</p>
+
+###
